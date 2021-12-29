@@ -13,7 +13,12 @@ We started Creating this Maze 3d Game !
 
 2 : About the game : https://www.lri.fr/~pa/PROGCXX/laby-hante.html
 
-3 : Extra information : http://formation.u-psud.fr/courses/M1INFO1920/document/POA/suite_projet.txt 
+-
+Characters To be Added :
+1) Dr Freak 
+2) Squelette 
+
+-
 
 It's in French but you wouldn't need to worry about it ! 
 
